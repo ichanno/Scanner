@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Scanner</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem mollis aliquam ut porttitor leo a diam. A iaculis at erat pellentesque.</string>
+    <string name="turn_flash_on_off">Turn Flash On/Off</string>
+
+    <string name="result">Result</string>
+    <string name="copy">Copy</string>
+
+</resources>
